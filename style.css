@@ -7,4 +7,10 @@ h1{
 }
 i{
               color: blue;
+              font-weight: bold;
+              font-size: 100cm;
+}
+h3{
+              font-size: 20ch;
+              font-weight: bold;
 }
